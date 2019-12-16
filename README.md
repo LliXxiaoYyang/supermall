@@ -41,3 +41,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 操作
 1. 引入两个css文件，base.css,normallize.css。并且导入。
 2. vue.config.js里面给目录起别名
+
+
+## 第二天
+1. 项目的模块化划分：tabbar->路由的映射关系
