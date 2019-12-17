@@ -19,16 +19,17 @@ export default {
 <style scoped>
   .nav-bar{
     display: flex;
-    height: 60px;
+    height: 44px;
     line-height: 44px;
+    text-align: center;
   }
   .left, .right{
     width: 60px;
-    background-color: red;
+    /* background-color: red; */
   }
   .center{
     flex: 1;
-    background-color: blue;  
+    /* background-color: blue;   */
   }
 
 </style>

@@ -45,3 +45,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 第二天
 1. 项目的模块化划分：tabbar->路由的映射关系
+2. 获取数据，封装网络请求
+3. 完成首页轮播图和下面的小点
