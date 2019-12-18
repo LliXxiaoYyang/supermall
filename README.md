@@ -47,3 +47,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 1. 项目的模块化划分：tabbar->路由的映射关系
 2. 获取数据，封装网络请求
 3. 完成首页轮播图和下面的小点
+
+## 第三天
+1. 首页数据请求，渲染
+2. bette-scroll
